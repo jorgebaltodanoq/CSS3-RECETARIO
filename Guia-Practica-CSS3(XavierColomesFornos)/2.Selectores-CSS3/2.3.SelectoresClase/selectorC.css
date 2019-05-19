@@ -1,0 +1,18 @@
+
+/* SELECTOR UNIVERSAL*/
+*{
+    margin: 20px 20px 20px 20px;
+}
+
+/*SELECTOR ATRIBUTO*/
+h1{
+    color:tomato;
+    font-family:cursive;
+    font-size: 30px;
+  
+}
+
+
+/*SELECTOR CLASE*/
+.parrafoAzul{color:blue;}
+.listaBorde{border:2px solid orange;}

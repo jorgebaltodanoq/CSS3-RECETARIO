@@ -1,0 +1,35 @@
+
+
+td{
+    border:1px solid black;
+}
+th{
+    background-color: yellow;
+    border:1px solid black;    
+}
+
+td[width="150px"]{
+    background-color: purple;
+    color: white;
+}
+
+td[width="200px"]{
+background-color: green;
+color:white;
+}
+
+td[width="300px"]{
+    background-color: tomato;
+    color:white;
+}
+
+td[width="400px"]{
+    background-color:red;
+    color:white;
+}
+
+td[width="100px"]{
+    background-color:blue;
+    color:white;
+}
+

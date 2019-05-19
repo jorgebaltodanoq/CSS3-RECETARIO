@@ -1,0 +1,81 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    float: none;
+    background-color: teal;
+}
+
+h1{
+    size: 30px;
+    font-family: cursive;
+    color: white;
+    text-align: center;
+}
+h2{
+    font-family: cursive;
+    color:white;
+    size: 20px;
+    margin: 0px 0px 0px 10px;
+}
+p{
+  color:white;
+  font-family: cursive;
+}
+
+.box-format{
+  width: 425px;
+  height: 200px;
+  margin:10px 10px 10px 10px;   /*arriba - derecha - */
+  float: left;
+  display: block;
+}
+
+#box-id1{
+    background-color: tomato;
+}
+
+#box-id2{
+    background-color:springgreen;
+}
+#box-id3{
+    background-color: blue;
+}
+#box-id4{
+    background-color: magenta;
+   
+}
+
+#box-id5{
+    background-color:yellow;
+}
+#box-id6{
+    background-color: orangered;
+}
+
+#box-id7{
+    background-image: url(../imagePruebas/Moda1.PNG);
+    background-repeat: no-repeat;
+}
+#box-id8{
+    background-image: url(../imagePruebas/Moda2.PNG);
+    background-repeat: no-repeat;
+}
+#box-id9{
+    background-image: url(../imagePruebas/Moda3.PNG);
+    background-repeat: no-repeat;
+}
+#box-id10{
+    background-image: url(../imagePruebas/Moda4.PNG);
+    background-repeat: no-repeat;}
+#box-id11{
+    background-image: url(../imagePruebas/Moda5.PNG);
+    background-repeat: no-repeat;
+}
+#box-id12{
+    background-image: url(../imagePruebas/Moda6.PNG);
+    background-repeat: no-repeat;
+}
+
+
+

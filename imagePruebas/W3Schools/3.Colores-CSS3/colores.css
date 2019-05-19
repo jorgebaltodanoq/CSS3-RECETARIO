@@ -1,0 +1,74 @@
+
+
+.size-box{
+ width:50px ;
+ height: 100px;
+ float:left;
+ margin: 10px;
+ margin-top: 20px;
+ top:20px;
+}
+
+#box-1{background-color: red;} 
+#box-2{background-color: royalblue;}
+#box-3{background-color: springgreen;}
+#box-4{background-color: purple;}
+#box-5{background-color:chartreuse;} 
+#box-6{background-color: darkorange;}
+#box-7{background-color: crimson;}
+#box-8{background-color: darkgrey;}
+#box-9{background-color:blanchedalmond;} 
+#box-10{background-color: aquamarine;}
+#box-11{background-color: black;}
+#box-12{background-color:deeppink;}
+#box-13{background-color:gold;}
+#box-14{background-color:green;}
+#box-15{background-color:dodgerblue;}
+#box-16{background-color: dodgerblue;}
+#box-17{background-color:lightgreen;}
+#box-18{background-color:olive;}
+#box-19{background-color: orchid;}
+
+#box-docker{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+
+#color-1{
+    color:red;
+}
+#color-2{
+    color:seagreen;
+}
+#color-3{
+    color:steelblue;
+}
+#color-4{
+    color:chartreuse;
+}
+#color-5{
+    color:crimson
+};
+
+#boxbor-1{border: 2px solid yellow;} 
+#boxbor-2{border:2px solid royalblue;}
+#boxbor-3{border:2px solid springgreen;}
+#boxbor-4{border:2px solid purple;}
+#boxbor-5{border:2px solid chartreuse;} 
+#boxbor-6{border:2px solid darkorange;}
+#boxbor-7{border:2px solid crimson;}
+#boxbor-8{border:2px solid darkgrey;}
+#boxbor-9{border:2px solid blanchedalmond;} 
+#boxbor-10{border:2px solid aquamarine;}
+#boxbor-11{border:2px solid black;}
+#boxbor-12{border:2px solid deeppink;}
+#boxbor-13{border:2px solid gold;}
+#boxbor-14{border:2px solid green;}
+#boxbor-15{border:2px solid dodgerblue;}
+#boxbor-16{border:2px solid dodgerblue;}
+#boxbor-17{border:2px solid lightgreen;}
+#boxbor-18{border:2px solid olive;}
+#boxbor-19{border: 2px solid orchid;}
+
+

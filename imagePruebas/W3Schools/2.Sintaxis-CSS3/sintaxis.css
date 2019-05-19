@@ -1,0 +1,80 @@
+
+body{background-color: black;}
+
+/** 
+SELECTORES ELEMENTOS..
+Se declara un diseño para alinear y dar color
+a todos los elementos P.
+**/
+
+h1{
+    text-align: center;
+    color: tomato;
+    font-family: cursive;
+}
+
+h2{
+    text-align: center;
+    color:seagreen;
+    font-family: cursive;
+}
+
+p{
+    text-align: center;
+    color:blue;
+    padding: 30px;
+    margin: 30px;
+}
+
+/** 
+SELECTORES CON ID
+**/
+
+#parra1{
+    text-align: right;
+    color:peru;
+    padding: 10px;
+    margin: 15px;
+}
+
+
+#parra2{
+    text-align:left;
+    color:peru;
+    padding: 11px;
+    margin: 11px;
+    
+}
+
+/**  SELECTORES DE CLASE **/
+.parra1{
+    text-align: right;
+    color:yellow;
+    padding: 10px;
+    margin: 15px;
+    font-family:cursive;
+}
+
+.parra2{
+    text-align:left;
+    color:rebeccapurple;
+    padding: 11px;
+    margin: 11px;
+    font-family:cursive;
+}
+
+.otroformato{
+    padding: 30px;
+    margin: 30px;
+    float: right;
+    size:30px;
+}
+
+/** 
+SELECTOR DE AGRUPACION
+**/
+
+#artic-p1, #artic-p2, #artic-p3{
+ color:chartreuse;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;v
+}

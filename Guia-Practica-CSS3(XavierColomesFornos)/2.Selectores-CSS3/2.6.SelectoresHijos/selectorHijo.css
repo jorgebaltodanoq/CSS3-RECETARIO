@@ -1,0 +1,16 @@
+*{
+    margin: 10px 10px 10px 10px;
+    padding: 0px 0px 0px 0px ;
+    border: 0px 0px 0px 0px;
+}
+
+body{
+    background-color:black;
+    color:white;
+}
+
+div > p{color:green;}
+
+section > p{color:blue;}
+
+div > div > article > p {color:pink;}

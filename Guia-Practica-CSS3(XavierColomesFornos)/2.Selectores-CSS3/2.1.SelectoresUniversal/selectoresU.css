@@ -1,0 +1,15 @@
+
+/* 
+Utilizando selector Universal:
+Este selector se aplica a toda la hoja
+HTML, se usa cuando se desea que todos los 
+elementos html presenten caracteres comunes.
+*/
+
+*{
+    padding: 0px;
+    margin: 10px 10px 10px 5px;
+    border: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}

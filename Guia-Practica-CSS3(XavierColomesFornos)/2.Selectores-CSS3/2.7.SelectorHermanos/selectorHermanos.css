@@ -1,0 +1,22 @@
+*{
+    margin: 10px 10px 10px 10px;
+    padding: 0px;
+    border:0px;
+}
+
+body{
+    background-color: yellowgreen;
+    color:white;
+}
+
+  section + section {
+    border: 1px solid black;
+}
+
+article + article {
+    background-color: blue;
+}
+
+div > div + div {
+    background-color: orange;
+}

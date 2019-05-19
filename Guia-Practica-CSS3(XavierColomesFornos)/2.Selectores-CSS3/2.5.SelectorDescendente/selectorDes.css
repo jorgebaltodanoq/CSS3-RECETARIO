@@ -1,0 +1,17 @@
+
+*{
+    margin: 10px 10px 10px 10px;
+    padding: 0px 0px 0px 0px ;
+    border: 0px 0px 0px 0px;
+}
+
+body{
+    background-color: tomato;
+    color:white;
+}
+
+/* CASO 1: Pone color negro a todos los elemento "P" que esteen dentro del elemento "DIV" */
+div p {color:black;}
+
+/*CASO 2: Pone en color Azul solo los elemento "P" que esten dentro de otro elemento "P"*/
+#border-az {border:2px solid blue;}
