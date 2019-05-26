@@ -1,0 +1,13 @@
+#first-Letter::first-letter{
+font-family: fantasy;
+color:red;
+size:60px;
+
+}
+
+#first-line::first-line{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    size:30px;
+}
+

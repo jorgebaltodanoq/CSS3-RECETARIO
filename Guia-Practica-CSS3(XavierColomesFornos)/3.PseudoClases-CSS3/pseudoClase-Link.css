@@ -1,0 +1,54 @@
+
+  #link-border  a:link{
+    color:green;
+    border:1px solid red;
+    padding: 5px;
+    background-color:orange;
+}
+
+#link-visited a:visited{
+    border:1px solid black;
+    font-family: italic;
+    
+}
+
+.efect-hover{
+    width: 300px;
+    height: 300px;;
+    float: left;
+     margin: 10px 10px 10px 10px;
+}
+
+#cua1{
+    background-color: red;
+}
+
+#cua2{
+    background-color:green;
+}
+
+#cua3{
+    background-color:blue;
+}
+#cua4{
+    background-color:tomato;
+}
+
+#cua1:hover{
+    background-color: pink;
+}
+
+#cua2:hover{
+    background-color: pink;
+}
+
+#cua3:hover{
+    background-color: pink;
+}
+
+#cua4:hover{
+    background-color: pink;
+}
+
+
+
